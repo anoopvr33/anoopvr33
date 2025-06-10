@@ -5,7 +5,7 @@
 Proficient in the MERN stack, with a strong foundation in full-stack development and a keen interest<br> in growing and contributing in a collaborative environment
 img -->
 
-![Banner](About.jpg)
+![Banner](Untitled.jpg)
 
 ## SOCIAL:
 
