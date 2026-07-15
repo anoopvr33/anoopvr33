@@ -1,9 +1,8 @@
-<!-- # Hi, I'm ANOOP V R
+# Hi, I'm ANOOP V R
 
 ## ABOUT ME:
 
-Proficient in the MERN stack, with a strong foundation in full-stack development and a keen interest<br> in growing and contributing in a collaborative environment
-img -->
+I am a Full Stack Developer with hands-on experience in React.js, Next.js, Node.js, Express.js, MongoDB, and MySQL. I have built responsive, scalable web applications and have experience working with Redux Toolkit, REST APIs, JWT Authentication, Tailwind CSS, TypeScript, and Docker. I am passionate about writing clean, maintainable code and continuously improving my skills.
 
 
 
